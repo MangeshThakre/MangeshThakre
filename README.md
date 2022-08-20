@@ -39,12 +39,7 @@ Hi 👋 My name is Mangesh Thakre
 
 
 
-
-
-
-
-
-<!-- <a href="https://github.com/MangeshThakre" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangeshThakre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+ <a href="https://github.com/MangeshThakre" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangeshThakre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
