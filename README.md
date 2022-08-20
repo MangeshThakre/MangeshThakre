@@ -1,4 +1,4 @@
-Hi 👋 My name is Mangesh Thakre
+Hi 👋 I'm Mangesh Thakre
 ===============================
 
 ### Skills
