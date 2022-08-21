@@ -1,5 +1,6 @@
-Hi 👋 I'm Mangesh Thakre
-===============================
+<h1 align="center">Hi 👋 I'm Mangesh Thakre</h1>
+
+
 
 ### Skills
 
