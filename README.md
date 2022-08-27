@@ -8,10 +8,10 @@
 
 
 ### Socials
-<p align="center"> <a href="https://www.github.com/MangeshThakre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>$~~~~~~~~~~~$<a href="https://www.linkedin.com/in/mangesh-thakre-a55b13217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>$~~~~~~~~~~~$<a href="https://mangeshthakre.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="34" height="34" />
- </a>$~~~~~~~~~~~$<a href="https://www.findcoder.io/u/mangeshthakre" target="_blank" rel="noreferrer"><img         src="https://github.com/MangeshThakre/MangeshThakre/blob/master/assets/findcoder.svg" width="32" height="32" /></a>
+<p align="center"> <a href="https://www.github.com/MangeshThakre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/mangesh-thakre-a55b13217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://mangeshthakre.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="34" height="34" />
+ </a><a href="https://www.findcoder.io/u/mangeshthakre" target="_blank" rel="noreferrer"><img         src="https://github.com/MangeshThakre/MangeshThakre/blob/master/assets/findcoder.svg" width="32" height="32" /></a>
 </p>
-<a href="https://www.findcoder.io/u/mangeshthakre" target="_blank" rel="noreferrer">![Foo](https://github.com/MangeshThakre/MangeshThakre/blob/master/assets/findcoder.svg)</a>
+
 
 
 
