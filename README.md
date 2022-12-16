@@ -27,11 +27,10 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671198030/pngegg_1_zwtmkx.png" height="36" alt="MongoDB" /></a></p>
 
 
+
 ### Socials
 <p align="center"> <a href="https://mangeshthakre.cyclic.app" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1670833732/jvftdspwhrcnu0yhnajd.png" width="40" height="40" /></a> <img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" /> <a href="https://www.linkedin.com/in/mangesh-thakre-a55b13217" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006444/linkedin_esrloq.svg" width="32" height="32" /></a><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" /><a href="https://mangeshthakre.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006765/hashnode_plxedd.png" width="34" height="34" /></a><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" /><a href="https://www.findcoder.io/u/mangeshthakre" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006444/findcoder_a6z6fl.svg" width="40" height="40" /></a>
 </p>
-
-
 
 ### Badges
 
@@ -40,22 +39,6 @@
 |   |   |  
 |---|---|
 | <a href="http://www.github.com/MangeshThakre"><img src="https://github-readme-stats.vercel.app/api?username=MangeshThakre&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="MangeshThakre's GitHub stats" /></a>   |  <a href="http://www.github.com/MangeshThakre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MangeshThakre&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>   |  
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
 
 
 
