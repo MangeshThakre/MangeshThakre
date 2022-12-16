@@ -17,7 +17,7 @@
  <img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" />
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671198274/pngegg_6_zg0yih.png"  height="50" alt="Bootstrap" /></a>
  <img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" />
- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671195361/pngwing.com_4_sviowe.png"  height="36" alt="Tailwind Css" /></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671195361/pngwing.com_4_sviowe.png"  height="36" alt="Tailwind Css" /></a>
  <img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" />
  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671194546/pngwing.com_uwfp5q.png" width="45" height="45" alt="CSS3" /></a>
  <img src="https://res.cloudinary.com/dfyznrd0v/image/upload/v1671006911/space_slwjuy.png" width="34" height="34" />
